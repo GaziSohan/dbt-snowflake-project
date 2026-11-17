@@ -1,6 +1,0 @@
-
-version: 2
-
-models:
-     - name: final_fact_sales
-       description: "Sales table with revenue,profit,margin added"
